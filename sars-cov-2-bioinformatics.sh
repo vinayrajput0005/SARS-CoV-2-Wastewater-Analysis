@@ -57,7 +57,7 @@ for sample in "${samples[@]}"; do
     echo "Sample: $sample"
 
     # Activate the Conda ivar environment
-    source activate /home/ncim/anaconda3/envs/ivar
+    #source activate /home/ncim/anaconda3/envs/ivar
 
     echo "${red}Step 1: Unzipping the files${reset}"
     gunzip "${sample}"*
