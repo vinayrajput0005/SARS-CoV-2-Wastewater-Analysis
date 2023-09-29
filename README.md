@@ -4,7 +4,8 @@ This Bash script performs SARS-CoV-2 bioinformatics analysis on Illumina sequenc
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](This Bash script performs SARS-CoV-2 bioinformatics analysis on Illumina sequencing data. It includes steps for quality checking, alignment, variant calling, and more. This README provides an overview of how to use the script and its features.
+)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Options](#options)
