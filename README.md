@@ -1,4 +1,4 @@
-# SARS-CoV-2 Bioinformatics Analysis Script
+# SARS-CoV-2 Wastewater Bioinformatics Analysis Script
 
 This Bash script performs SARS-CoV-2 bioinformatics analysis on Illumina sequencing data. It includes steps for quality checking, alignment, variant calling, and more. This README provides an overview of how to use the script and its features.
 
